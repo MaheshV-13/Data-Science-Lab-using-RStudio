@@ -6,6 +6,13 @@ This repository contains lab tasks for the TEB2043 Data Science course (January 
 
 | Date | Lab | Tasks |
 | :--- | :--- | :--- |
-| 12/2/2026 | Lab 2 | - [Activity1](Lab2/Activity/Activity1.R) <br> - [Activity2](Lab2/Activity/Activity2.R) <br> - [Activity3](Lab2/Activity/Activity3.R) |
-| 12/2/2026 | Lab 3 | - [Activity1](Lab3/Activity/Activity1.R) <br> - [Activity2](Lab3/Activity/Activity2.R) <br> - [Activity3](Lab3/Activity/Activity3.R) |
-| 12/2/2026 | Lab 4 | - [Activity1](Lab4/Activity/Activity1.R) <br> - [Activity2](Lab4/Activity/Activity2.R) <br> - [Activity3](Lab4/Activity/Activity3.R) |
+| 12/2/2026 | Lab 2 | - [Activity1](Lab_Tasks/Lab2/Activity/Activity1.R) <br> - [Activity2](Lab_Tasks/Lab2/Activity/Activity2.R) <br> - [Activity3](Lab_Tasks/Lab2/Activity/Activity3.R) |
+| 12/2/2026 | Lab 3 | - [Activity1](Lab_Tasks/Lab3/Activity/Activity1.R) <br> - [Activity2](Lab_Tasks/Lab3/Activity/Activity2.R) <br> - [Activity3](Lab_Tasks/Lab3/Activity/Activity3.R) |
+| 12/2/2026 | Lab 4 | - [Activity1](Lab_Tasks/Lab4/Activity/Activity1.R) <br> - [Activity2](Lab_Tasks/Lab4/Activity/Activity2.R) <br> - [Activity3](Lab_Tasks/Lab4/Activity/Activity3.R) |
+| ??/2/2026 | Lab 5 | - [Activity1]() <br> - [Activity2]() <br> - [Activity3]() |
+
+## 🗓️ Lab Project
+
+| Date | Lab | Project |
+| :--- | :--- | :--- |
+| 17/2/2026 | Lab Project 1 | - [LabProject1](Lab_Project/LabProject1) |
